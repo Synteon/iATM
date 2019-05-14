@@ -1,0 +1,5 @@
+.vscode/*
+iATM/bin/*
+iATM/obj/*
+iATM.Tests/bin/*
+iATM.Tests/obj/*
